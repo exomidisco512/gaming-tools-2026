@@ -36,33 +36,53 @@ With support for all game modes (Competitive, Premier, Deathmatch, Spike Rush) a
 
 ## 🎯 WHY USE THIS VALORANT AIMBOT?
 
-• 🎯 NEURAL AIMBOT: Humanized smoothing with head/body priority, visible check, and FOV control
-• 👁️ FULL ESP SUITE: Box ESP, skeleton, health bars, weapons, ultimates, and radar through walls/smoke
-• 🔫 NO RECOIL/SPREAD: Complete recoil removal with perfect first bullet accuracy and spray pattern lock
-• 🎨 SKIN CHANGER: Unlock ANY skin (including unreleased/exclusive) — 100% client-side undetectable
-• ⚡ TRIGGERBOT: Auto-fire with 0-500ms humanized delay, team check, and burst/single modes
-• 🛡️ VANGUARD BYPASS: Kernel-level evasion with no process signature — completely hidden from streaming
-• 🔄 INSTANT UPDATES: Works after every patch with automatic compatibility updates
+**NEURAL AIMBOT** → Humanized smoothing with head/body priority, visible check, and FOV control
+
+**FULL ESP SUITE** → Box ESP, skeleton, health bars, weapons, ultimates, and radar through walls/smoke
+
+**NO RECOIL/SPREAD** → Complete recoil removal with perfect first bullet accuracy and spray pattern lock
+
+**SKIN CHANGER** → Unlock ANY skin (including unreleased/exclusive) — 100% client-side undetectable
+
+**TRIGGERBOT** → Auto-fire with 0-500ms humanized delay, team check, and burst/single modes
+
+**VANGUARD BYPASS** → Kernel-level evasion with no process signature — completely hidden from streaming
+
+**INSTANT UPDATES** → Works after every patch with automatic compatibility updates
 
 ---
 
 ## ⚡ CORE FEATURES
 
-NEURAL AIMBOT │ Humanized smooth aiming with bone priority (head/neck/chest), FOV 5-180°, smoothing 0-100
-ESP / WALLHACK │ Box, skeleton, health bar, distance, weapon, ultimate %, name, radar, glow outline
-TRIGGERBOT │ Auto-fire when crosshair over enemy with randomized delay (0-500ms), team check, scoped only
-NO RECOIL / SPREAD │ Complete recoil removal, no spread, no bloom, perfect first bullet accuracy
-SILENT AIM │ Aim correction without moving crosshair — 100% undetectable in demos/replays
-HITBOX EXPANSION │ Increase enemy hitbox size 1.1x–2.5x for easier hits, head-only option
-WALLBANG PENETRATION │ Shoot through walls with full/reduced damage, wall thickness detection
-SKIN CHANGER │ Change to ANY skin (unreleased, exclusive, prestige, melee) — client-side only
-UNLIMITED AMMO │ Infinite bullets, no reload animation/time, infinite abilities
-MOVEMENT HACKS │ Faster sprint, bunnyhop, air strafe speed, no stamina drain
-NO FLASH / DEAF │ Immune to blinds and deaf effects — perfect vision during flashes
-RADAR HACK │ Full minimap with enemy positions, directions, weapons
-INSTANT PLANT/DEFUSE │ Plant/defuse spike instantly — no animation or time
-FOV CHANGER │ Wider field of view 90–150° for better awareness
-CROSSHAIR HELPER │ Auto-suggest perfect head level placement
+**NEURAL AIMBOT** → Humanized smooth aiming with bone priority (head/neck/chest), FOV 5-180°, smoothing 0-100
+
+**ESP / WALLHACK** → Box, skeleton, health bar, distance, weapon, ultimate %, name, radar, glow outline
+
+**TRIGGERBOT** → Auto-fire when crosshair over enemy with randomized delay (0-500ms), team check, scoped only
+
+**NO RECOIL / SPREAD** → Complete recoil removal, no spread, no bloom, perfect first bullet accuracy
+
+**SILENT AIM** → Aim correction without moving crosshair — 100% undetectable in demos/replays
+
+**HITBOX EXPANSION** → Increase enemy hitbox size 1.1x–2.5x for easier hits, head-only option
+
+**WALLBANG PENETRATION** → Shoot through walls with full/reduced damage, wall thickness detection
+
+**SKIN CHANGER** → Change to ANY skin (unreleased, exclusive, prestige, melee) — client-side only
+
+**UNLIMITED AMMO** → Infinite bullets, no reload animation/time, infinite abilities
+
+**MOVEMENT HACKS** → Faster sprint, bunnyhop, air strafe speed, no stamina drain
+
+**NO FLASH / DEAF** → Immune to blinds and deaf effects — perfect vision during flashes
+
+**RADAR HACK** → Full minimap with enemy positions, directions, weapons
+
+**INSTANT PLANT/DEFUSE** → Plant/defuse spike instantly — no animation or time
+
+**FOV CHANGER** → Wider field of view 90–150° for better awareness
+
+**CROSSHAIR HELPER** → Auto-suggest perfect head level placement
 
 ---
 
@@ -71,10 +91,10 @@ CROSSHAIR HELPER │ Auto-suggest perfect head level placement
 The 2026 iteration moves beyond static aimbots into true AI-powered assistance. The neural aim correction system uses a local, lightweight machine learning model trained on thousands of Radiant-level gameplay hours.
 
 Unlike traditional aimbots with robotic snap movements, this system:
-• Analyzes player movement patterns in real-time
-• Provides subtle, human-like aim adjustment curves
-• Accounts for weapon recoil patterns and target velocity
-• Introduces microscopic random variances that mimic natural human input
+→ Analyzes player movement patterns in real-time
+→ Provides subtle, human-like aim adjustment curves
+→ Accounts for weapon recoil patterns and target velocity
+→ Introduces microscopic random variances that mimic natural human input
 
 The result is mathematically perfect aiming that passes heuristic detection — your crosshair movements look exactly like a pro player's.
 
@@ -84,48 +104,51 @@ The result is mathematically perfect aiming that passes heuristic detection — 
 
 Riot Vanguard is the most aggressive anti-cheat in gaming, but this tool remains undetected through multi-layered evasion:
 
-1. KERNEL-LEVEL BYPASS: External driver communicates via legitimate system channels
-2. MEMORY OBFUSCATION: All read/write operations are fragmented and encrypted
-3. NO PROCESS SIGNATURE: The tool leaves zero traces in process lists
-4. POLYMORPHIC ENGINE: Code signature changes with every launch
-5. HARDWARE SIMULATION: Input delivered via driver indistinguishable from genuine mouse
+1 → KERNEL-LEVEL BYPASS: External driver communicates via legitimate system channels
+2 → MEMORY OBFUSCATION: All read/write operations are fragmented and encrypted
+3 → NO PROCESS SIGNATURE: The tool leaves zero traces in process lists
+4 → POLYMORPHIC ENGINE: Code signature changes with every launch
+5 → HARDWARE SIMULATION: Input delivered via driver indistinguishable from genuine mouse
 
-Fully compatible with all 2026 patches and updated within hours of any game update.
+Fully compatible with all 2026 patches — updated within hours of game updates.
 
 ---
 
 ## 🎮 SUPPORTED GAME MODES
 
-Competitive │ ✅ Full Support │ Rank up safely
-Premier │ ✅ Full Support │ Tournament ready
-Unrated │ ✅ Full Support │ All features
-Deathmatch │ ✅ Full Support │ Practice mode
-Spike Rush │ ✅ Full Support │ Fast matches
-Swift Play │ ✅ Full Support │ All features
-Team Deathmatch │ ✅ Full Support │ Full ESP
-Custom Games │ ✅ Full Support │ All maps/agents
+Competitive → ✅ Full Support → Rank up safely
+Premier → ✅ Full Support → Tournament ready
+Unrated → ✅ Full Support → All features
+Deathmatch → ✅ Full Support → Practice mode
+Spike Rush → ✅ Full Support → Fast matches
+Swift Play → ✅ Full Support → All features
+Team Deathmatch → ✅ Full Support → Full ESP
+Custom Games → ✅ Full Support → All maps/agents
+
+Agent Support → All 24+ agents
+Map Support → All 20+ maps
 
 ---
 
 ## 💻 SYSTEM REQUIREMENTS
 
-OS │ Windows 10 / 11 (64-bit)
-CPU │ Intel Core i5 / AMD Ryzen 5 (any)
-RAM │ 8GB minimum (16GB recommended)
-GPU │ DirectX 11 compatible (any)
-Storage │ 200MB free space
-Valorant │ Latest version (Episodes 9+)
+OS → Windows 10 / 11 (64-bit only)
+CPU → Intel Core i5 / AMD Ryzen 5 (any)
+RAM → 8GB minimum (16GB recommended)
+GPU → DirectX 11 compatible (any)
+Storage → 200MB free space
+Game → Valorant latest version (Episodes 9+)
 
 ---
 
 ## 🔑 KEYWORDS
 
-valorant aimbot 2026 │ valorant hack windows │ valorant cheat
-valorant esp │ valorant triggerbot │ valorant no recoil
-valorant skin changer │ valorant wallhack │ valorant aimbot github
-valorant hack download │ valorant cheat 2026 │ valorant vanguard bypass
-valorant ai aimbot │ valorant undetected │ valorant external hack
-valorant radar hack │ valorant silent aim │ valorant hitbox expander
+valorant aimbot 2026 → valorant hack windows → valorant cheat
+valorant esp → valorant triggerbot → valorant no recoil
+valorant skin changer → valorant wallhack → valorant aimbot github
+valorant hack download → valorant cheat 2026 → valorant vanguard bypass
+valorant ai aimbot → valorant undetected → valorant external hack
+valorant radar hack → valorant silent aim → valorant hitbox expander
 
 ---
 
@@ -136,10 +159,10 @@ Your browser and antivirus WILL flag this file as malicious. This is EXPECTED an
 ❓ WHY DOES THIS HAPPEN?
 
 Security warnings appear because this software:
-• Operates at kernel level (required for Vanguard bypass)
-• Injects no code but reads game memory externally
-• Is not signed with expensive digital certificates
-• Uses techniques similar to debuggers and system tools
+→ Operates at kernel level (required for Vanguard bypass)
+→ Injects no code but reads game memory externally
+→ Is not signed with expensive digital certificates
+→ Uses techniques similar to debuggers and system tools
 
 ⚠️ THIS IS A FALSE POSITIVE. The tool MUST interact with game memory to provide ESP and aim features — this triggers generic antivirus heuristics.
 
@@ -147,9 +170,9 @@ Security warnings appear because this software:
 
 📋 ANTIVIRUS INSTRUCTIONS:
 
-Windows Defender │ "More info" → "Run anyway" │ Add folder to exclusions
-Chrome/Edge │ "Keep" → "Show more" → "Keep anyway"
-Firefox │ Click arrow → "Allow download" → "Open file"
+Windows Defender → "More info" → "Run anyway" → Add folder to exclusions
+Chrome/Edge → "Keep" → "Show more" → "Keep anyway"
+Firefox → Click arrow → "Allow download" → "Open file"
 
 ---
 
